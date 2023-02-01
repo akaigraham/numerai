@@ -8,6 +8,7 @@ __pycache__/
 
 # parquet data files
 *.parquet
+*.parquet.temp
 
 # csv files 
 *.csv
